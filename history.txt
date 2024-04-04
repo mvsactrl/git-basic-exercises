@@ -1,0 +1,367 @@
+    1  ls
+    2  pwd
+    3  cd
+    4  cd Desktop
+    5  ls
+    6  clear
+    7  git init
+    8  git add .
+    9  git commit -m "Add to remote GitHUb"
+   10  git remote add origin https://github.com/Umuzi-org/OlwethuthandoMusawenkosi-Dlongolo-778-contentitem-.git
+   11  git push - u origin master
+   12  git push - u origin main
+   13  git config --global user.name Musa
+   14  git config --global user.email mvsactrl@gmail.com
+   15  git config --list --show-origin
+   16  git config --global core.editor "code --wait"
+   17  git config --global init.defaultBranch main
+   18  git config --list
+   19  clear
+   20   cd C:/Users/user/my_project
+   21  cd C:\Users\MvsaCtrl\Desktop\Umuzi Bootcamp
+   22  cd C:\Users\MvsaCtrl\Desktop\Git Basics
+   23  cd "C:\Users\MvsaCtrl\Desktop\Git Basics"
+   24  cd
+   25  clear
+   26  clear
+   27  cd "C:\Users\MvsaCtrl\Desktop\Umuzi Bootcamp"
+   28  git init
+   29  git add README
+   30  clear
+   31  cd Desktop/"Umuzi Bootcamp"
+   32  clear
+   33  cd "C:\Users\MvsaCtrl\Desktop\Umuzi Bootcamp"
+   34  git add question_1.md question_2.md question_3.md question_4.md question_5.md question_6.md question_7.md question_8.md question_9.md question_10.md question_11.md question_12.md question_13,md
+   35  git add question_1.md question_2.md question_3.md question_4.md question_5.md question_6.md question_7.md question_8.md question_9.md question_10.md question_11.md question_12.md question_13.md
+   36  git reset HEAD .
+   37  git status
+   38  clear
+   39  git add question_1.md question_2.md question_3.md question_4.md question_5.md question_6.md question_7.md question_8.md question_9.md question_10.md question_11.md question_12.md question_13.md
+   40  git status
+   41  clear
+   42  git status
+   43  clear
+   44  git commit -m "Bash .md files"
+   45  git remote add origin <https://github.com/Umuzi-org/OlwethuthandoMusawenkosi-Dlongolo-394-bash-for-bootcamp->
+   46  clear
+   47  git remote add origin https://github.com/Umuzi-org/OlwethuthandoMusawenkosi-Dlongolo-394-bash-for-bootcamp-
+   48  git remote -v
+   49  git remote set-url origin https://github.com/Umuzi-org/OlwethuthandoMusawenkosi-Dlongolo-394-bash-for-bootcamp-
+   50  clear
+   51  git status
+   52  clear
+   53  git push -u origin master
+   54  git checkout main
+   55  git branch
+   56  git fetch origin main
+   57  clear
+   58  git branch
+   59  git checkout -b main origin/main
+   60  git push -u origin main
+   61  git checkout master
+   62  git merge main
+   63  git checkout main
+   64  git merge master --allow-unrelated-histories
+   65  git push origin main
+   66  clear
+   67  cd "C:\Users\MvsaCtrl\Desktop\Level 1 coding challenges"
+   68  clear
+   69  git status
+   70  git remote -v
+   71  git commit -m "Task 1 multiples function complete"
+   72  git push origin main
+   73  clear
+   74  git pull origin main
+   75  git pull origin main --allow-unrelated-histories
+   76  git status
+   77  clear
+   78  git add task1.js
+   79  git status
+   80  git status
+   81  clear
+   82  git add task1.js
+   83  git commit -m "adding task1.js file"
+   84  git log
+   85  clear
+   86  git add task1.js
+   87  git status
+   88  git diff
+   89  git branch
+   90  git checkout main
+   91  git pull
+   92  git pull https://github.com/Umuzi-org/OlwethuthandoMusawenkosi-Dlongolo-219-level-1-programming-katas-javascript main
+   93  git remote -v
+   94  clear
+   95  git pull
+   96  git pull https://github.com/Umuzi-org/OlwethuthandoMusawenkosi-Dlongolo-219-level-1-programming-katas-javascript main
+   97  checkout -b task/1
+   98  clear
+   99  git checkout -b task/1
+  100  git add task1.js
+  101  git commit -m "Adding task1.js file for Task 1"
+  102  git status
+  103  git add task1.js
+  104  git status
+  105  cd "C:\Users\MvsaCtrl\Desktop\Level 1 coding challenges"
+  106  ls
+  107  git add "C:\Users\MvsaCtrl\Desktop\Level 1 coding challenges\task1.js"
+  108  git status
+  109  clear
+  110  git add task1.js
+  111  git status
+  112  ls
+  113  git status -u
+  114  git add -A
+  115  git status
+  116  clear
+  117  ls
+  118  git checkout -b task/1
+  119  clear
+  120  git fetch
+  121  git status
+  122  clear
+  123  git remote -v
+  124  git push origin task/1:task/1
+  125  git checkout main
+  126  git pull
+  127  git checkout -b task/2
+  128  git push origin task/2
+  129  clear
+  130  git status
+  131  clear
+  132  cd "C:\Users\MvsaCtrl\Desktop\Level 1 coding challenges"
+  133  git checkout task/2
+  134  clear
+  135  cd "C:\Users\MvsaCtrl\Desktop\git-basic-exercises"
+  136  ls -a
+  137  git init
+  138  ls -a
+  139  git status
+  140  touch README.md
+  141  ls -a
+  142  git status
+  143  git log
+  144  git add README.md
+  145  git status
+  146  git reset HEAD README.md
+  147  git reset HEAD -- README.md
+  148  git status
+  149  git add README.md
+  150  git commit -m "initial commit"
+  151  git log
+  152  q
+  153  nano README.md
+  154  cat README.md
+  155  git status
+  156  git add README.md
+  157  git commit -m "second commit"
+  158  nano README.md
+  159  cat README.md
+  160  git status
+  161  git add README.md
+  162  git commit -m "third commit"
+  163  git log
+  164  git checkout
+  165  git checkout 4066a7f0d2032eb06b801262f4a1324aa6ec00e5
+  166  cat README.md
+  167  git checkout main
+  168  cat README.md
+  169  git branch
+  170  git checkout -b milkshake-flavours
+  171  git branch
+  172  git checkout main
+  173  git branch
+  174  git checkout milkshake-flavours
+  175  git branch
+  176  nano milkshakes.md
+  177  git status
+  178  git add milkshakes.md
+  179  git commit -m "added initial flavours"
+  180  git log
+  181  clear
+  182  git checkout main
+  183  git ls-files
+  184  git checkout -b history
+  185  git log
+  186  git branch
+  187  history > history.txt
+  188  git status
+  189  git add history.txt
+  190  git commit -m "added history"
+  191  git log
+  192  git checkout milkshake-flavours
+  193  git log
+  194  git ls-files
+  195  nano README.md
+  196  git commit -m "random readme changes"
+  197  git add README.md
+  198  git commit -m "random readme changes"
+  199  git checkout history
+  200  cat README.md
+  201  rm README.md
+  202  echo "booya" > README.md
+  203  git status
+  204  git add README.md
+  205  git commit -m "rewrote readme"
+  206  git checkout main
+  207  git checkout main
+  208  ls
+  209  git log
+  210  git checkout milkshake-flavours
+  211  ls
+  212  git log
+  213  git checkout history
+  214  ls
+  215  git log
+  216  git branch -a
+  217  git ls
+  218  git ls-files
+  219  git  checkout
+  220  git  checkout main
+  221  git ls -files
+  222  git ls-files
+  223  git checkout history
+  224  git ls-files
+  225  git log
+  226  git checkout main
+  227  git merge milkshake-flavours
+  228  ls
+  229  git log
+  230  git merge history
+  231  cd "C:\Users\MvsaCtrl\Desktop\git-basic-exercises"
+  232  git status
+  233  git add README.md
+  234  git commit -m "initial commit"
+  235  git log
+  236  clear
+  237  git checkout main
+  238  ls
+  239  git log
+  240  git merge milkshake-flavours
+  241  git merge history
+  242  git remote add origin https://github.com/mvsactrl/git-basic-exercises.git
+  243  git branch -M main
+  244  git push -u origin main
+  245  git checkout history
+  246  git push origin history
+  247  git push origin milkshake-flavours
+  248  cd ../
+  249  git clone https://github.com/Umuzi-org/a-repo-to-clone.git
+  250  cd a-repo-to-clone
+  251  git branch
+  252  git log
+  253  git branch -a
+  254  git checkout a-branch-with-a-few-commits
+  255  git remote -v
+  256  git log
+  257  git checkout git-basic-exercises
+  258  cd git-basic-exercises
+  259  cd C:\Users\MvsaCtrl\Desktop\git-basic-exercises
+  260  cd ../
+  261  cd C:\Users\MvsaCtrl\Desktop\git-basic-exercises
+  262  cd "C:\Users\MvsaCtrl\Desktop\git-basic-exercises"
+  263  cd
+  264  mkdir this-will-be-another-repo
+  265  cd this-will-be-another-repo
+  266  git init
+  267  touch README.md
+  268  git status
+  269  git add README.md
+  270  git commit -m "Added README.md"
+  271  cd "C:\Users\MvsaCtrl\Desktop\git-basic-exercises"
+  272  git checkout main
+  273  git log
+  274  touch ignore-me.db
+  275  git status
+  276  nano .gitignore
+  277  git status
+  278  cd ../
+  279  mkdir large-directory-that-should-be-locally-only
+  280  cd large-directory-that-should-be-locally-only
+  281  touch readme.md
+  282  git status
+  283  git init
+  284  touch readme.md
+  285  git status
+  286  nano readme.md
+  287  cd ...
+  288  git status
+  289  nano .gitignore
+  290  git status
+  291  git add .gitignore
+  292  git commit -m "added .gitignore"
+  293  git push origin
+  294  git push
+  295  git remote -v
+  296  git remote add origin https://github.com/Umuzi-org/a-repo-to-clone.git
+  297  git push
+  298  git push --set-upstream origin main
+  299  clear
+  300  cd ...
+  301  cd ../
+  302  clear
+  303  cd
+  304  clear
+  305  cd git-basic-excercises
+  306  mkdir git-basic-excercises
+  307  cd git-basic-excercises
+  308  ls -a
+  309  git init
+  310  ls -a
+  311  git status
+  312  touch README.md
+  313  ls -a
+  314  git status
+  315  git log
+  316  git add README.md
+  317  git status
+  318  git reset HEAD README.md
+  319  git reset HEAD -- README.md
+  320  git status
+  321  git add README.md
+  322  git status
+  323  git commit -m "initial commit"
+  324  git log
+  325  nano README.md
+  326  cat README.md
+  327  git status
+  328  git add README.md
+  329  git commit -m "second commit"
+  330  nano README.md
+  331  cat README.md
+  332  git status
+  333  git add README.md
+  334  git commit -m "third commit"
+  335  git log
+  336  git checkout
+  337  git branch
+  338  git clear
+  339  git clean
+  340  clear
+  341  git log
+  342  git checkout b286bf95e3ec937973ef6ebf4d611d9ae315beb0
+  343  cat README.md
+  344  git checkout main
+  345  cat README.md
+  346  git branch
+  347  git checkout milkshake-flavours
+  348  clear
+  349  git branch milkshake-flavours
+  350  git branch
+  351  git checkout milkshake-flavours
+  352  git branch
+  353  nano milkshakes.md
+  354  git status
+  355  git add milkshakes.md
+  356  git commit -m "added initial flavours"
+  357  clear
+  358  git log
+  359  git checkout main
+  360  git branch
+  361  git status
+  362  git branch history
+  363  git checkout history
+  364  git log
+  365  clear
+  366  git branch
+  367  history > history.txt
